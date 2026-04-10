@@ -1835,14 +1835,14 @@
     "@emnapi/runtime" "^1.4.3"
     "@tybys/wasm-util" "^0.9.0"
 
-"@nestjs/apollo@^13.2.4":
-  version "13.2.4"
-  resolved "https://registry.yarnpkg.com/@nestjs/apollo/-/apollo-13.2.4.tgz#a61b7f1e16ab48bc5c175c8202f77dd815baf17e"
-  integrity sha512-5gKyDQDm+E+AIYofFxXXUhi/4z9YgSjXtjlXUixCj+n6oVcJOilQ7zxlnu3vHiBZz8kEn2ZvVZTJ+i5V2xQ+ew==
+"@nestjs/apollo@^13.2.5":
+  version "13.2.5"
+  resolved "https://registry.yarnpkg.com/@nestjs/apollo/-/apollo-13.2.5.tgz#d30c2f6419b51614f4216859bf98e492daba8730"
+  integrity sha512-UaBdfpbXMBzSMZOG4eGkTMHyRxaPUx0sw46dOFWAyF/WDmS7xJHd6KR+iRHSa4atQzzMXvtd9ZVYacHxNfuLKA==
   dependencies:
     "@apollo/server-plugin-landing-page-graphql-playground" "4.0.1"
     iterall "1.3.0"
-    lodash.omit "4.5.0"
+    lodash.omit "4.18.0"
     tslib "2.8.1"
 
 "@nestjs/cli@^11.0.19":
@@ -7105,10 +7105,10 @@ lodash.mergewith@^4.6.2:
   resolved "https://registry.yarnpkg.com/lodash.mergewith/-/lodash.mergewith-4.6.2.tgz#617121f89ac55f59047c7aec1ccd6654c6590f55"
   integrity sha512-GK3g5RPZWTRSeLSpgP8Xhra+pnjBC56q9FZYe1d5RN3TJ35dbkGy3YqBSMbyCrlbi+CM9Z3Jk5yTL7RCsqboyQ==
 
-lodash.omit@4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/lodash.omit/-/lodash.omit-4.5.0.tgz#6eb19ae5a1ee1dd9df0b969e66ce0b7fa30b5e60"
-  integrity sha512-XeqSp49hNGmlkj2EJlfrQFIzQ6lXdNro9sddtQzcJY8QaoC2GO0DT7xaIokHeyM+mIT0mPMlPvkYzg2xCuHdZg==
+lodash.omit@4.18.0:
+  version "4.18.0"
+  resolved "https://registry.yarnpkg.com/lodash.omit/-/lodash.omit-4.18.0.tgz#d16d96a68db2c803c45da9450fdac953c59a1858"
+  integrity sha512-hZXIupXdHtocTnvIJ2aCd2vxKYtxex6gbiGuPvgBRnFQO9yu3AtmDAbVuCXcSsQx3INo/1g71OktlFFA/ES8Xg==
 
 lodash.once@^4.0.0, lodash.once@^4.1.1:
   version "4.1.1"
